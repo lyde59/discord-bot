@@ -1,0 +1,5 @@
+{"level":"error","message":"Loading mods: Error: ENOENT: no such file or directory, scandir 'C:\\Users\\flomu\\dbs\\BotFiles\\mods'","service":"user-service"}
+{"level":"error","message":"Bot login: Error [TOKEN_INVALID]: An invalid token was provided.","service":"user-service"}
+{"level":"error","message":"Loading mods: Error: ENOENT: no such file or directory, scandir 'C:\\Users\\flomu\\dbs\\BotFiles\\mods'","service":"user-service"}
+{"level":"error","message":"Loading mods: Error: ENOENT: no such file or directory, scandir 'C:\\Users\\flomu\\dbs\\BotFiles\\mods'","service":"user-service"}
+{"level":"error","message":"Bot login: Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.","service":"user-service","timestamp":"2021-03-10 12:47:16 AM +0100"}
